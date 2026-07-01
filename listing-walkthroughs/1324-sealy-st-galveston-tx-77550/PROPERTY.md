@@ -37,7 +37,7 @@
 ## Shot List (walkthrough order) — 8 clips (Seedance 1.5, 8s, 720p, 16:9, silent)
 | # | Room | Source photo | Camera move | Higgsfield job id |
 |---|------|--------------|-------------|-------------------|
-| 01 | Exterior (establishing) | 01-original.webp | slow gimbal push toward entry | b6108244-bd15-461c-b45e-4eac9f661beb |
+| 01 | Exterior (establishing) | 01-original.webp | gentle slow push, stable foreground (re-roll v2) | 375ab3bc-1ba9-42f4-b8bf-7202bcbeafce |
 | 02 | Entry foyer (stained glass) | 03-original.webp | doorway threshold → steadicam step-in | b9a61a89-ac3a-4046-ab1a-ede0c111e66a |
 | 03 | Living room (teal) | 10-original.webp | slow gimbal glide, reveal depth | 521c12bc-d843-47e6-88c3-ccb3dd2419b3 |
 | 04 | Dining room (grand piano) | 07-original.webp | gimbal glide, table approach | 1c1bd2f2-22ff-470c-a508-5666f3f094ee |
@@ -47,7 +47,7 @@
 | 08 | Secondary bedroom | 23-original.webp | slow gimbal glide | 52dd0fcc-3adc-4cc5-ab0a-26ee414b46b7 |
 
 ### Rendered clip URLs (Higgsfield CDN — download to assemble locally)
-1. exterior      — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_022307_b6108244-bd15-461c-b45e-4eac9f661beb.mp4
+1. exterior      — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_025417_375ab3bc-1ba9-42f4-b8bf-7202bcbeafce.mp4  (re-roll v2; original b6108244 had a foreground-tree parallax bloom)
 2. entry         — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_022324_b9a61a89-ac3a-4046-ab1a-ede0c111e66a.mp4
 3. living        — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_022711_521c12bc-d843-47e6-88c3-ccb3dd2419b3.mp4
 4. dining        — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_023137_1c1bd2f2-22ff-470c-a508-5666f3f094ee.mp4

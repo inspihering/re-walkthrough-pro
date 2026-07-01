@@ -10,7 +10,7 @@ Save each clip into a `scenes/` folder using this exact order so a sorted concat
 
 | File name | Room | Higgsfield job id |
 |-----------|------|-------------------|
-| room-01-exterior.mp4    | Front exterior       | b6108244-bd15-461c-b45e-4eac9f661beb |
+| room-01-exterior.mp4    | Front exterior       | 375ab3bc-1ba9-42f4-b8bf-7202bcbeafce |
 | room-02-entry.mp4       | Entry foyer          | b9a61a89-ac3a-4046-ab1a-ede0c111e66a |
 | room-03-living.mp4      | Living room          | 521c12bc-d843-47e6-88c3-ccb3dd2419b3 |
 | room-04-dining.mp4      | Dining room          | 1c1bd2f2-22ff-470c-a508-5666f3f094ee |
