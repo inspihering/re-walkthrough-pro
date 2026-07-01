@@ -54,14 +54,16 @@
 5. kitchen       — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_023402_76d29d7c-418b-4522-a545-0632b72ee634.mp4
 6. primary-bed   — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_023405_dc5c28c7-7656-468a-a570-05b6536a1fdb.mp4
 7. primary-bath  — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_023709_5cc570e1-85c4-42ff-8f7d-8c74b087a3ca.mp4
-8. secondary-bed — (rendering — URL pending)
+8. secondary-bed — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_024351_52dd0fcc-3adc-4cc5-ab0a-26ee414b46b7.mp4
 
 ## Build Choices
 - **Style:** cinematic (per-room camera move)
 - **Rooms:** auto-curate (8 hero shots)
 - **Output ratio:** 16:9 master
-- **Engine:** Seedance 2.0 image-to-video, 5s/clip
-- **Cost:** 8 × 22.5 = 180 Higgsfield credits (of 202 available)
+- **Engine:** Seedance 1.5 Pro (Bytedance) image-to-video, 8s/clip, 720p
+  (Seedance 2.0 required a Pro/Ultimate Higgsfield plan; this account is Starter,
+  so fell back to Seedance 1.5 — reliable motion, and much cheaper.)
+- **Cost:** 8 × 4.8 = 38.4 Higgsfield credits (202 → 163.6 remaining)
 
 ## Outputs
 - Scenes: 8 Higgsfield clips (job links; also to be downloaded to `scenes/room-NN-*.mp4` where CDN reachable)
@@ -75,4 +77,5 @@
     (same source URLs; not affected by the local egress block).
   → Rendered clips can't be pulled into this sandbox to ffmpeg-stitch; final
     concat is done by the user locally via STITCH.md.
-- Higgsfield: 202 credits (starter) at build start; ffmpeg via ffmpeg-static.
+- Higgsfield: 202 credits (starter) at build start → 163.6 after 8 clips; ffmpeg via ffmpeg-static.
+- All 8 clips rendered successfully; none needed a re-gen.
