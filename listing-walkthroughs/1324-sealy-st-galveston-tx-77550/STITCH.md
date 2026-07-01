@@ -16,7 +16,7 @@ Save each clip into a `scenes/` folder using this exact order so a sorted concat
 | room-04-dining.mp4      | Dining room          | 1c1bd2f2-22ff-470c-a508-5666f3f094ee |
 | room-05-kitchen.mp4     | Kitchen              | 76d29d7c-418b-4522-a545-0632b72ee634 |
 | room-06-primary-bed.mp4 | Primary bedroom      | dc5c28c7-7656-468a-a570-05b6536a1fdb |
-| room-07-primary-bath.mp4| Primary bath         | 5cc570e1-85c4-42ff-8f7d-8c74b087a3ca |
+| room-07-primary-bath.mp4| Primary bath         | 9f9b38fc-12e0-4980-826f-be42dceec9b3 |
 | room-08-secondary-bed.mp4| Secondary bedroom   | 52dd0fcc-3adc-4cc5-ab0a-26ee414b46b7 |
 
 Direct download URLs for all 8 clips are listed in `PROPERTY.md` → "Rendered clip URLs".
