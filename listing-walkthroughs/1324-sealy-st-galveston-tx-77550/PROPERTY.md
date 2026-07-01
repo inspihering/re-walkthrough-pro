@@ -34,27 +34,28 @@
   laundry, storage, accessible bath — intentionally excluded from the tour.
 - No backyard/pool/outdoor photos in the set (urban historic lot).
 
-## Shot List (walkthrough order) — 8 clips (Seedance 1.5, 8s, 720p, 16:9, silent)
+## Shot List (walkthrough order) — 7 clips (Seedance 1.5, 8s, 720p, 16:9, silent)
+Entry + dining are merged into a single start→end "walk-in → dining" transition (clip 02).
 | # | Room | Source photo | Camera move | Higgsfield job id |
 |---|------|--------------|-------------|-------------------|
 | 01 | Exterior (establishing) | 01-original.webp | gentle slow push, stable foreground (re-roll v2) | 375ab3bc-1ba9-42f4-b8bf-7202bcbeafce |
-| 02 | Entry foyer (stained glass) | 03-original.webp | doorway threshold → steadicam step-in | b9a61a89-ac3a-4046-ab1a-ede0c111e66a |
+| 02 | Walk-in → dining room | 04-original.webp → 07-original.webp | start/end move: glide in past staircase, turn right through first doorway into the dining room | 783e8289-f657-4893-bb4a-eba4db4254dd |
 | 03 | Living room (teal) | 10-original.webp | slow gimbal glide, reveal depth | 521c12bc-d843-47e6-88c3-ccb3dd2419b3 |
-| 04 | Dining room (grand piano) | 07-original.webp | gimbal glide, table approach | 1c1bd2f2-22ff-470c-a508-5666f3f094ee |
-| 05 | Kitchen (island) | 11-original.webp | gimbal glide along island | 76d29d7c-418b-4522-a545-0632b72ee634 |
-| 06 | Primary bedroom | 16-original.webp | gentle steadicam glide | dc5c28c7-7656-468a-a570-05b6536a1fdb |
-| 07 | Primary bath (dual vanity) | 19-original.webp | minimal push, shutters locked (re-roll v2) | 9f9b38fc-12e0-4980-826f-be42dceec9b3 |
-| 08 | Secondary bedroom | 23-original.webp | slow gimbal glide | 52dd0fcc-3adc-4cc5-ab0a-26ee414b46b7 |
+| 04 | Kitchen (island) | 11-original.webp | gimbal glide along island | 76d29d7c-418b-4522-a545-0632b72ee634 |
+| 05 | Primary bedroom | 16-original.webp | gentle steadicam glide | dc5c28c7-7656-468a-a570-05b6536a1fdb |
+| 06 | Primary bath (dual vanity) | 19-original.webp | minimal push, shutters locked (re-roll v2) | 9f9b38fc-12e0-4980-826f-be42dceec9b3 |
+| 07 | Secondary bedroom | 23-original.webp | slow gimbal glide | 52dd0fcc-3adc-4cc5-ab0a-26ee414b46b7 |
 
 ### Rendered clip URLs (Higgsfield CDN — download to assemble locally)
-1. exterior      — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_025417_375ab3bc-1ba9-42f4-b8bf-7202bcbeafce.mp4  (re-roll v2; original b6108244 had a foreground-tree parallax bloom)
-2. entry         — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_022324_b9a61a89-ac3a-4046-ab1a-ede0c111e66a.mp4
-3. living        — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_022711_521c12bc-d843-47e6-88c3-ccb3dd2419b3.mp4
-4. dining        — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_023137_1c1bd2f2-22ff-470c-a508-5666f3f094ee.mp4
-5. kitchen       — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_023402_76d29d7c-418b-4522-a545-0632b72ee634.mp4
-6. primary-bed   — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_023405_dc5c28c7-7656-468a-a570-05b6536a1fdb.mp4
-7. primary-bath  — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_034940_9f9b38fc-12e0-4980-826f-be42dceec9b3.mp4  (re-roll v2; original 5cc570e1 had phantom/moving plantation shutters)
-8. secondary-bed — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_024351_52dd0fcc-3adc-4cc5-ab0a-26ee414b46b7.mp4
+1. exterior       — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_025417_375ab3bc-1ba9-42f4-b8bf-7202bcbeafce.mp4  (re-roll v2; original b6108244 had a foreground-tree parallax bloom)
+2. walkin-dining  — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_034036_783e8289-f657-4893-bb4a-eba4db4254dd.mp4  (start=photo04 hall, end=photo07 dining; replaces old entry + standalone dining)
+3. living         — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_022711_521c12bc-d843-47e6-88c3-ccb3dd2419b3.mp4
+4. kitchen        — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_023402_76d29d7c-418b-4522-a545-0632b72ee634.mp4
+5. primary-bed    — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_023405_dc5c28c7-7656-468a-a570-05b6536a1fdb.mp4
+6. primary-bath   — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_034940_9f9b38fc-12e0-4980-826f-be42dceec9b3.mp4  (re-roll v2; original 5cc570e1 had phantom/moving plantation shutters)
+7. secondary-bed  — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_024351_52dd0fcc-3adc-4cc5-ab0a-26ee414b46b7.mp4
+
+**Unused takes:** original entry b9a61a89 (walking-out), entry pull-back 321501c3, entry walk-in 0c8a0fab, standalone dining 1c1bd2f2, exterior take1 b6108244 + take3 7959b836, primary-bath take1 5cc570e1.
 
 ## Build Choices
 - **Style:** cinematic (per-room camera move)
