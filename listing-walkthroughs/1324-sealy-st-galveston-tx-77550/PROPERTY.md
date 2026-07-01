@@ -34,17 +34,27 @@
   laundry, storage, accessible bath — intentionally excluded from the tour.
 - No backyard/pool/outdoor photos in the set (urban historic lot).
 
-## Shot List (walkthrough order) — 8 clips
-| # | Room | Source photo | Camera move | Higgsfield job |
-|---|------|--------------|-------------|----------------|
-| 01 | Exterior (establishing) | 01-original.webp | slow gimbal push toward entry | (pending) |
-| 02 | Entry foyer (stained glass) | 03-original.webp | doorway threshold → steadicam step-in | (pending) |
-| 03 | Living room (teal) | 10-original.webp | slow gimbal glide, reveal depth | (pending) |
-| 04 | Dining room (grand piano) | 07-original.webp | gimbal glide, table approach | (pending) |
-| 05 | Kitchen (island) | 11-original.webp | gimbal glide along island | (pending) |
-| 06 | Primary bedroom | 16-original.webp | gentle steadicam glide | (pending) |
-| 07 | Primary bath (dual vanity) | 19-original.webp | threshold → slow centered push-in | (pending) |
-| 08 | Secondary bedroom | 23-original.webp | slow gimbal glide | (pending) |
+## Shot List (walkthrough order) — 8 clips (Seedance 1.5, 8s, 720p, 16:9, silent)
+| # | Room | Source photo | Camera move | Higgsfield job id |
+|---|------|--------------|-------------|-------------------|
+| 01 | Exterior (establishing) | 01-original.webp | slow gimbal push toward entry | b6108244-bd15-461c-b45e-4eac9f661beb |
+| 02 | Entry foyer (stained glass) | 03-original.webp | doorway threshold → steadicam step-in | b9a61a89-ac3a-4046-ab1a-ede0c111e66a |
+| 03 | Living room (teal) | 10-original.webp | slow gimbal glide, reveal depth | 521c12bc-d843-47e6-88c3-ccb3dd2419b3 |
+| 04 | Dining room (grand piano) | 07-original.webp | gimbal glide, table approach | 1c1bd2f2-22ff-470c-a508-5666f3f094ee |
+| 05 | Kitchen (island) | 11-original.webp | gimbal glide along island | 76d29d7c-418b-4522-a545-0632b72ee634 |
+| 06 | Primary bedroom | 16-original.webp | gentle steadicam glide | dc5c28c7-7656-468a-a570-05b6536a1fdb |
+| 07 | Primary bath (dual vanity) | 19-original.webp | threshold → slow centered push-in | 5cc570e1-85c4-42ff-8f7d-8c74b087a3ca |
+| 08 | Secondary bedroom | 23-original.webp | slow gimbal glide | 52dd0fcc-3adc-4cc5-ab0a-26ee414b46b7 |
+
+### Rendered clip URLs (Higgsfield CDN — download to assemble locally)
+1. exterior      — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_022307_b6108244-bd15-461c-b45e-4eac9f661beb.mp4
+2. entry         — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_022324_b9a61a89-ac3a-4046-ab1a-ede0c111e66a.mp4
+3. living        — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_022711_521c12bc-d843-47e6-88c3-ccb3dd2419b3.mp4
+4. dining        — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_023137_1c1bd2f2-22ff-470c-a508-5666f3f094ee.mp4
+5. kitchen       — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_023402_76d29d7c-418b-4522-a545-0632b72ee634.mp4
+6. primary-bed   — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_023405_dc5c28c7-7656-468a-a570-05b6536a1fdb.mp4
+7. primary-bath  — https://d8j0ntlcm91z4.cloudfront.net/user_2zWaPzpL41myse7Z7CR4Qimmvju/hf_20260701_023709_5cc570e1-85c4-42ff-8f7d-8c74b087a3ca.mp4
+8. secondary-bed — (rendering — URL pending)
 
 ## Build Choices
 - **Style:** cinematic (per-room camera move)
